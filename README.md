@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi👋![image](https://github.com/user-attachments/assets/d3136df8-4c29-4d70-a679-a16fa3552793)
+
 
 <!--
 **yed0/yed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
